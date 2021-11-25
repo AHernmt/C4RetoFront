@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #b9f3ae;
+    height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+    margin-top: 30px;
+    max-width: 600px;
+    height: 520px;
+    border: 1px solid #9c9c9c;
+    background-color: #eaeaea;
+}
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+#login
+.container
+#login-row
+#login-column
+#login-box
+#login-form
+#register-link {
+    margin-top: -85px;
+}
+footer{
+    text-align: center ;
+    margin-top: 50px;
+    font: bold 40 px verdana;
+    color: red;
+}
